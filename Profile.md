@@ -1,5 +1,5 @@
 - Hi, I’m Frosty
-- I am still in highschool and am just begining to learn
+- I am still in 9th grade and am just begining to learn
 - Im interested in JAVA and Python
 
 <!---
